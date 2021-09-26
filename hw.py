@@ -9,9 +9,9 @@ import tweepy
 #AAAAAAAAAAAAAAAAAAAAAPNdUAEAAAAAW0Cyw2FNbHJQSN3Tsdpayx2f2VE%3DP6B400SGslbLMaPcK3vozkS0tX353TdWFYoXM7MCUGXA8vkRHm
 
 #declare the keys and secrets
-consumer_key = XD5LPTbAmtJLyTDssVnxnOs82 #"the consumer key"
-consumer_secret = mWYdVvNeyIwdQ22Mh5vEbuihwkWjhpNZPsx2tfuoD6dQMgdK5O# "the consumer secret"
-access_key = "the consumer key"
+consumer_key = "XD5LPTbAmtJLyTDssVnxnOs82" #"the consumer key"
+consumer_secret = "mWYdVvNeyIwdQ22Mh5vEbuihwkWjhpNZPsx2tfuoD6dQMgdK5O"# "the consumer secret"
+access_key = "the consumer key" #acess的key我还没找到，正在找！
 access_secret = "the access_secret"
 
 #authorize
